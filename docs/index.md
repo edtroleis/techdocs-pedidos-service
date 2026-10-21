@@ -4,7 +4,7 @@ Recebe e acompanha pedidos de clientes, do momento em que são criados até a en
 
 | | |
 |---|---|
-| **Owner** | `platform-team` |
+| **Owner** | `squad-checkout` |
 | **System** | `demo-system` |
 | **Tipo** | service |
 | **Linguagem** | Python 3.14 · FastAPI |

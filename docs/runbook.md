@@ -17,4 +17,4 @@ curl -s http://localhost:8080/health
 
 ## Escalonamento
 
-Time dono: `platform-team`. Dúvidas ou correções nesta doc: botão **Comentar** no topo da página.
+Time dono: `squad-checkout`. Dúvidas ou correções nesta doc: botão **Comentar** no topo da página.
