@@ -1,0 +1,17 @@
+site_name: Pedidos Service
+repo_url: https://github.com/edtroleis/techdocs-pedidos-service
+edit_uri: edit/main/docs/
+nav:
+  - Início: index.md
+  - Arquitetura: arquitetura.md
+  - API: api.md
+  - Runbook: runbook.md
+plugins:
+  - techdocs-core
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+strict: true

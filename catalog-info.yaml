@@ -7,6 +7,7 @@ metadata:
   tags: [python, fastapi]
   annotations:
     github.com/project-slug: edtroleis/techdocs-pedidos-service
+    backstage.io/techdocs-ref: dir:.
   links:
     - url: https://github.com/edtroleis/techdocs-pedidos-service
       title: Repositório
