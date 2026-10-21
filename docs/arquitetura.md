@@ -4,7 +4,6 @@
 
 ```mermaid
 stateDiagram-v2
-    direction LR
     [*] --> criado : POST /pedidos
     criado --> pago : pagamento autorizado
     criado --> cancelado : cliente cancela
